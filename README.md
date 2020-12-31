@@ -1,0 +1,2 @@
+# recursive_function_to_find_and_returns-xy
+*Write a recursive function to find and returns xy such that y is an integer. o Write main function and input base and exponent from user call the above function and show results. o Modify the recursive function to handle negative exponents. For negative exponents simply base is on the wrong side of fraction line, so flip the base i.e x-2 = 1/x2 o Modify the main function and find 2-4 the result should be 0.0625
